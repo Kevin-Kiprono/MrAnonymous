@@ -480,5 +480,4 @@ int main(void)
     return (0);
 }
 carrie@ubuntu:~/0x00$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 10-main.c 10-check_cycle.c 10-linked_lists.c -o cycle
-carrie@ubuntu:~/0x00$$ ./cycle 
-i
+carrie@ubuntu:~/0x00$$ ./cycli
